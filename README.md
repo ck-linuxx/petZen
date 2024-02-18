@@ -4,7 +4,7 @@
 <br />
 
 <p>Para rodar o código, basta rodar yarn ou npm install, para subir o servidor rode um yarn dev ou npm run dev.</p>
-<p>Link para acessar o site já no ar: https://pet-md8eaygsm-ck-linuxx.vercel.app/</p>
+<p>Link para acessar o site já no ar: https://pet-zen.vercel.app/p>
 
 <br />
 <h3>Desktop</h3>
